@@ -3,7 +3,7 @@
 
 
 Projekt grupowy UG. Implementacja metody Jacobiego w Python. Rozwiązywanie układów równań metodą iteracji Jacobiego. Przybliżanie wartości do uzyskania podanej dokładności.
-Podczas projektu:
-:heavy_check_mark: Dowodzenie grupą, podział zadań i trzymanie terminów
-:heavy_check_mark: Pisanie dokumentacji
+Podczas projektu:<br>
+:heavy_check_mark: Dowodzenie grupą, podział zadań i trzymanie terminów<br><br>
+:heavy_check_mark: Pisanie dokumentacji<br>
 :heavy_check_mark: Prezentacja
