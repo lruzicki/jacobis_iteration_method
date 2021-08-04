@@ -9,5 +9,6 @@ Podczas projektu:<br>
 :heavy_check_mark: Prezentacja
 
 Screen programu:
-![image](https://user-images.githubusercontent.com/56487722/128202300-3d3ea889-f669-43f5-8c86-b5b760bcc05a.png)
+![image](https://user-images.githubusercontent.com/56487722/128202431-9c52b26c-6cf8-4d9c-9061-24379254d8ac.png)
+
 
